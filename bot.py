@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 import datetime
 
-TOKEN = 'NzI0NjczNDA3OTgzMTU3MzE5.XvDm6Q.Nbfn1uf2b_TsDE-7uKYF__gmFvM'
+TOKEN = ''
 bot = commands.Bot(command_prefix = "-")
 bot.remove_command("help")
 
